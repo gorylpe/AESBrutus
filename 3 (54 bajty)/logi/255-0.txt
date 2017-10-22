@@ -1,0 +1,5 @@
+log>Do zdekodowania 40 bitów, czyli 5.0 bajtów
+log>Tworzenie w¹tków
+log>Startowanie w¹tków
+log>W¹tek 1 zakoñczony
+log>W¹tek 0 zakoñczony

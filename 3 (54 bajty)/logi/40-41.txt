@@ -1,0 +1,5 @@
+log 14:42:49 >Do zdekodowania 40 bitów, czyli 5.0 bajtów
+log 14:42:49 >Tworzenie w¹tków
+log 14:42:49 >Startowanie w¹tków
+log 20:48:28 >W¹tek 1 zakoñczony
+log 20:49:21 >W¹tek 0 zakoñczony
