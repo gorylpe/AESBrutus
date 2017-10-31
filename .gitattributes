@@ -1,3 +1,4 @@
 * linguist-vendored
-AESBRUTUS-Cpp/* linguist-vendored=false
-AESBRUTUS-Java/* linguist-vendored=false
+*.cpp linguist-vendored=false
+*.h linguist-vendored=false
+*.java linguist-vendored=false
